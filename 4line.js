@@ -1,0 +1,20 @@
+let num = 1
+//console.log(num)
+num1=num+1
+//console.log(num)
+num2=num1+1
+console.log(num,num1,num2)
+num3=num2+1
+//console.log(num)
+num4=num3+1
+//console.log(num)
+num5=num4+1
+console.log(num3,num4,num5)
+num6=num5+1
+//console.log(num)
+num7=num6+1
+//console.log(num)
+num8=num7+1
+console.log(num6,num7,num8)
+num8=num7+2
+console.log(num8)
